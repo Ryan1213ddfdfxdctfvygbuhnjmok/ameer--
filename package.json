@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "and": "0.0.3",
+    "anti-spam": "^0.2.7",
+  }
+}
